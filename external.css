@@ -1,0 +1,12 @@
+.paragraph-three {
+    background-color: #fff3e0;
+    color: #e65100;
+    text-align: right;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 17px;
+
+    padding: 18px;
+    margin: 20px 0;
+    border: 2px solid #ffb74d;
+    border-radius: 10px;
+}
